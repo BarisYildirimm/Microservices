@@ -34,7 +34,7 @@ Microservices have gained popularity for their ability to facilitate rapid devel
 
 In conclusion, microservices provide a compelling solution for designing and building complex applications that prioritize scalability, resilience, and ease of maintenance. By decomposing applications into smaller, loosely-coupled services, organizations can achieve greater agility and accelerate their software development processes.
 
-![montolotich1.1](assets\microservices1.1.png)
+![microservices1.1](assets/microservices1.1.png)
 
 # Monolithic Architecture
 
@@ -66,4 +66,4 @@ Monolithic architecture refers to a software design approach where an entire app
 
 As software development practices evolve, many organizations are moving towards more modular and distributed architectures, such as microservices, to address the limitations associated with monolithic architectures. These newer architectures provide more flexibility, scalability, and enable independent development and deployment of individual components.
 
-![montolotich1](assets\monolithic1.png)
+![montolotich1](assets/monolithic1.png)
