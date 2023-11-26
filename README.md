@@ -34,7 +34,7 @@ Microservices have gained popularity for their ability to facilitate rapid devel
 
 In conclusion, microservices provide a compelling solution for designing and building complex applications that prioritize scalability, resilience, and ease of maintenance. By decomposing applications into smaller, loosely-coupled services, organizations can achieve greater agility and accelerate their software development processes.
 
-![montolotich1.1](assets\microservices1.1.png)
+![microservices1.1](assets\microservices1.1.png)
 
 # Monolithic Architecture
 
