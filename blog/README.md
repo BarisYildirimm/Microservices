@@ -1,6 +1,6 @@
 # Blog - Microservices Note
 
-![blogServices](/assets/blogServices.png)
+![blogServices](../assets/BlogServices.png)
 
 ## Microservices Event Bus
 
@@ -18,4 +18,4 @@ The event bus provides a decoupled way for microservices to communicate. Microse
 
 Event-driven communication through an event bus is especially beneficial in scenarios where microservices need to be loosely coupled, allowing for independent development, deployment, and scaling of individual services.
 
-![eventBus](/assets/eventBus.png)
+![eventBus](../assets/EventBus.png)
