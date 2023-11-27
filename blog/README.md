@@ -1,6 +1,6 @@
 # Blog - Microservices Note
 
-![blogServices](/assets/blogServices.png)
+![blogServices](assets/BlogServices.png)
 
 ## Microservices Event Bus
 
