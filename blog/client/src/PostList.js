@@ -10,6 +10,7 @@ const PostList = () => {
     const res = await axios.get("http://localhost:4000/posts");
     setPosts(res.data);
   };
+
   useEffect(() => {
     fetchPosts();
   }, []);
@@ -23,7 +24,7 @@ const PostList = () => {
       >
         <div className="card-body">
           <h3>{post.title}</h3>
-          <CommentList postId={post.id} />
+          <CommentList postId={post.comments} />
           <CommentCreate postId={post.id} />
         </div>
       </div>
