@@ -21,3 +21,5 @@ Event-driven communication through an event bus is especially beneficial in scen
 ![eventBus](../assets/EventBus.png)
 
 ![BlogQueryService](../assets/BlogQueryService.png)
+
+![moderation](../assets/Moderation.jpg)
