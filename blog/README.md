@@ -22,4 +22,4 @@ Event-driven communication through an event bus is especially beneficial in scen
 
 ![BlogQueryService](../assets/BlogQueryService.png)
 
-![moderation](../assets/Moderation.jpg)
+![moderation](../assets/moderation.jpg)
